@@ -51,4 +51,4 @@ Contributions are welcome! Feel free to open issues, submit pull requests, or pr
 
 ## Reporting Issues
 
-If you encounter any errors or face problems related to this program, please feel free to contact the project maintainer.
+If you encounter any errors or face problems related to this program, please feel free to contact me via jvlpranathi@gmail.com.
